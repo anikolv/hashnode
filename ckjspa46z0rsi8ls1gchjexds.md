@@ -1,4 +1,12 @@
-## Implement full-text search with Hibernate Search and Apache Lucene
+---
+title: "Implement full-text search with Hibernate Search and Apache Lucene"
+datePublished: Mon Jan 11 2021 15:07:30 GMT+0000 (Coordinated Universal Time)
+cuid: ckjspa46z0rsi8ls1gchjexds
+slug: implement-full-text-search-with-hibernate-search-and-apache-lucene
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1610377646407/LO1iJ29jk.jpeg
+tags: software-development, java, apache, hibernate
+
+---
 
 There are a lot of possible ways for implementing search engine capabilities in our application. The straightforward path is searching by explicit fields or properties, represented like a form with multiple inputs in frontend terms. You fill-in search criteria for the attribute of your choice and fire the search. But what if we don't want to force explicit searching per attribute? What if we want to enable searching based on best-match merge from all attributes? Concept with probably the best analogy being the Google search box. Well, in this case we have the full-text search capability which makes it possible to scan all possible attributes of the searching target and finds the best match. Now, even full-text searching is a field with huge amount of possible approaches, mostly depending on the tech stack. In this article I present an approach in case of Hibernate ORM used for your persistence layer.
 
