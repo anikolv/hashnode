@@ -1,4 +1,14 @@
-## The testing pyramid strategy - practical application
+---
+title: "The testing pyramid strategy - practical application"
+seoTitle: "The testing pyramid strategy - practical application"
+seoDescription: "The testing pyramid strategy - practical application"
+datePublished: Sat Jul 03 2021 16:50:24 GMT+0000 (Coordinated Universal Time)
+cuid: ckqo04l010js1s2s1avuafg6u
+slug: the-testing-pyramid-strategy-practical-application
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625330949834/I5O5RZEAa.jpeg
+tags: tdd, java, automation, testing, qa
+
+---
 
 Software testing is an activity which ensures that a) the software we are implementing is doing the job as per functional and non-functional requirements and b) all changes are backward compatible, meaning they doesnt introduce regressions in the already implemented functionalities. While I am mentioning those as a separate points, they are one and the same thing. All tests, initially implemented to test a given feature, make sure that later-on this feature is not being regressed. This article aims to share hands-on experience on some testing strategies with focus on effectiveness, rather than dogmas (TDD is the holly grail, we need to test everything VS tests are waste of time, writing tests takes 3x more time for implementing than the actual production code).
 
