@@ -1,4 +1,15 @@
-## Post-COVID: WFH vs WFO vs Hybrid
+---
+title: "Post-COVID: WFH vs WFO vs Hybrid"
+seoTitle: "Post-COVID: WFH vs WFO vs Hybrid"
+seoDescription: "Post-COVID: WFH vs WFO vs Hybrid"
+datePublished: Tue Jun 29 2021 14:25:43 GMT+0000 (Coordinated Universal Time)
+cuid: ckqi573zz03o67ts1f7vudulq
+slug: post-covid-wfh-vs-wfo-vs-hybrid
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624976777294/3isF76x4r.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1624976736691/8FG5UgZV3.jpeg
+tags: software-development, software-engineering, work, it
+
+---
 
 The sci-fi movie COVID which pushed us hard in the early 2020 is slowly, but inevitably going to its final credits. Along the road it forced us realize a lot of things - nothing is more important than the human life, how short and fragile it is, how each one of us - individually and globally, adapt and handle crysis like this. But along all the negatives, COVID forced a new chapter of the digital revolution we are witnessing in the last 20 years. We now know for sure that the digital revolution enabled us to use our mobile and computer devices for running whole businesses successfully, to move ahead big enough part of the economy, even when whole sectors are closed. We can do it securely, from any place on the planet with internet access, on a global scale. And wherever there is no digital transformation which covers at least part of the business, profit goes to zero without governmental support. We now know that good internet access is crucial. And last but not least - Work From Home (WFH) went from exotic benefit to the new norm of working. Now, an year and a half later into the COVID crysis and being able to see it slowing down its impact on our lives, more and more companies are doing the math - is the WFH an irreversible revolution, or we still need an updated version of Working from the office (WFO). Lets see where we are and what we learned.
 
