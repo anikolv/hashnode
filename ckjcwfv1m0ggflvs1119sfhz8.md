@@ -1,4 +1,12 @@
-## Developers, "It Doesn’t Have to Be Crazy at Work"! "Rework" it!
+---
+title: "Developers, "It Doesn’t Have to Be Crazy at Work"! "Rework" it!"
+datePublished: Thu Dec 31 2020 13:43:39 GMT+0000 (Coordinated Universal Time)
+cuid: ckjcwfv1m0ggflvs1119sfhz8
+slug: developers-it-doesnt-have-to-be-crazy-at-work-rework-it
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1609422196270/Qkw002XYX.jpeg
+tags: software, software-development, software-engineering
+
+---
 
 Couple of years ago, I heard about two books wrote by Jason Fried and David Heinemeier Hansson - the founders of the Ruby on Rails web development framework and the web-based project management tool  [Basecamp](https://basecamp.com/) . They were named "Rework" and "It Doesn’t Have to Be Crazy at Work" with main focus on how to run business successfully. Since then I have read them multiple times and I was always astonished how brilliant is business, software development and even life described in brief but accurate manner. That's why I decided to pull out some of the key points I found most accurate and really practical and important for developers in particular. I strongly believe that if we apply just some of those points, the overall efficiency and quality of work will raise tremendously. This is why I highly recommend buying and reading those books. Let's move to my list:
 
