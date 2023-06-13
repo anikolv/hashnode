@@ -21,8 +21,7 @@ But fret not, my good fellows! Like a superhero arriving just in the nick of tim
 
 And remember, if anyone asks you why centering a div is so hard, just tell them, "Well, the div just has an issue with commitment. It just can't decide whether to commit to the left, right, top, or bottom. But thanks to ChatGPT, we're now bringing order to the chaos! While AI is still incapable of providing answers to the great philosophical questions, here are the top 10 suggested approaches from ChatGPT for centering a div with pure CSS!
 
-1. **Margin Auto**: This is a common method to center a block-level element horizontally.
-    
+**Margin Auto**: This is a common method to center a block-level element horizontally.
 
 ```css
 div {
@@ -32,8 +31,7 @@ div {
 }
 ```
 
-1. **Text Align Center**: This is used to center inline or inline-block elements.
-    
+**Text Align Center**: This is used to center inline or inline-block elements.
 
 ```css
 .parent {
@@ -45,8 +43,7 @@ div {
 }
 ```
 
-1. **Flexbox**: Using CSS Flexbox you can center items vertically and horizontally.
-    
+**Flexbox**: Using CSS Flexbox you can center items vertically and horizontally.
 
 ```css
 .parent {
@@ -56,8 +53,7 @@ div {
 }
 ```
 
-1. **CSS Grid**: The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages.
-    
+**CSS Grid**: The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages.
 
 ```css
 .parent {
@@ -66,8 +62,7 @@ div {
 }
 ```
 
-1. **Position and Transform**: For absolute centering.
-    
+**Position and Transform**: For absolute centering.
 
 ```css
 .parent {
@@ -82,8 +77,7 @@ div {
 }
 ```
 
-1. **Line Height**: If it's just a single line of text, you can match the `line-height` to the `height` of the `div`.
-    
+**Line Height**: If it's just a single line of text, you can match the `line-height` to the `height` of the `div`.
 
 ```css
 div {
@@ -92,8 +86,7 @@ div {
 }
 ```
 
-1. **Padding**: If you don't need to support multiple lines of text, you can use padding to center text within a `div`.
-    
+**Padding**: If you don't need to support multiple lines of text, you can use padding to center text within a `div`.
 
 ```css
 div {
@@ -102,8 +95,7 @@ div {
 }
 ```
 
-1. **Table-Cell**: Centering like in a table cell using the `vertical-align` property.
-    
+**Table-Cell**: Centering like in a table cell using the `vertical-align` property.
 
 ```css
 .parent {
@@ -117,8 +109,7 @@ div {
 }
 ```
 
-1. **Flexbox with Margin Auto**: This approach combines `flexbox` and `margin: auto` to center the div.
-    
+**Flexbox with Margin Auto**: This approach combines `flexbox` and `margin: auto` to center the div.
 
 ```css
 .parent {
@@ -130,8 +121,7 @@ div {
 }
 ```
 
-1. **CSS Calc**: Calc can be used to dynamically calculate the top and left properties of a child div to center it.
-    
+**CSS Calc**: Calc can be used to dynamically calculate the top and left properties of a child div to center it.
 
 ```css
 .parent {
