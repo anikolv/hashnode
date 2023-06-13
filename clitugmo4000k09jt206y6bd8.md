@@ -19,7 +19,7 @@ Oh, you try everything. You beg, you plead, you bargain with the div. You try "a
 
 But fret not, my good fellows! Like a superhero arriving just in the nick of time, I present to you...ChatGPT! More reliable than a compass at the North Pole and definitely less mysterious than the Bermuda Triangle. With its knowledge and wisdom, the struggle to center your div will become a tale you tell around the campfire to scare newbies.
 
-And remember, if anyone asks you why centering a div is so hard, just tell them, "Well, the div just has an issue with commitment. It just can't decide whether to commit to the left, right, top, or bottom. But thanks to ChatGPT, we're now bringing order to the chaos! While AI is still incapable of providing answers to the great philosophical questions, here are the top 10 suggested approaches from ChatGPT for centering a div with pure CSS!  
+And remember, if anyone asks you why centering a div is so hard, just tell them, "Well, the div just has an issue with commitment. It just can't decide whether to commit to the left, right, top, or bottom. But thanks to ChatGPT, we're now bringing order to the chaos! While AI is still incapable of providing answers to the great philosophical questions, here are the top 10 suggested approaches from ChatGPT for centering a div with pure CSS!
 
 1. **Margin Auto**: This is a common method to center a block-level element horizontally.
     
